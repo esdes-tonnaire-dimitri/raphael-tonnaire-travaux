@@ -1,0 +1,55 @@
+#menu {
+    position: fixed;
+    right: 0;
+    top: 50%;
+    width: 8em;
+    margin-top: -2.5em;
+  }
+
+#barre_bas {
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    height: 30px;
+    left: 0px;
+    text-align: center;
+    text-justify: top;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: whitesmoke;
+    background: #790F0F;
+}
+.barre_haut {
+    position: fixed;
+}
+.texte_bas {
+    position: top center;
+
+}
+.corps-page {
+    margin-top: 60px;
+    margin-bottom: 40px;
+    background: seashell;
+
+}
+.flex-item {
+    align-content: center;
+    border: 10em solid #1ER4523;
+}
+
+.contact {
+    background-color: whitesmoke;
+}
+.margin0{
+    width: 100%;
+    height: 400px;
+
+}
+.color1{
+    color: #FFDA8C;
+}
+.color2{
+    color: tomato;
+}
+.picturelogo{
+    width: 2%
+}
